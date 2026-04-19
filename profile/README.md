@@ -5,7 +5,7 @@
 
 <br/>
 
-### **La plataforma digital que transforma la cadena del cacao de denominacion de origen**
+### **La plataforma digital que transforma la cadena del cacao de denominación de origen**
 
 <br/>
 
@@ -21,11 +21,11 @@
 
 <div align="center">
 
-## Quienes Somos
+## Quiénes Somos
 
 </div>
 
-**DO Cacao** es una plataforma digital B2B disenada para revolucionar la trazabilidad, gestion operativa y comercializacion del cacao con **denominacion de origen**. Integramos en un unico ecosistema digital a todos los actores clave de la cadena de valor — productores, asociaciones, compradores y administradores — para ofrecer **visibilidad completa** sobre el recorrido del producto, desde la plantacion hasta el comprador final.
+**DO Cacao** es una plataforma digital B2B diseñada para revolucionar la trazabilidad, gestión operativa y comercialización del cacao con **denominación de origen**. Integramos en un único ecosistema digital a todos los actores clave de la cadena de valor — productores, asociaciones, compradores y administradores — para ofrecer **visibilidad completa** sobre el recorrido del producto, desde la plantación hasta el comprador final.
 
 > *"Convertimos la trazabilidad en una ventaja operativa y comercial para el ecosistema cacaotero."*
 
@@ -45,11 +45,11 @@
 <tr>
 <td width="50%">
 
-### El Desafio Actual
+### El Desafío Actual
 
-- Vacios criticos de trazabilidad en la cadena del cacao
-- Procesos fragmentados entre multiples actores
-- Informacion dispersa y poco confiable
+- Vacíos críticos de trazabilidad en la cadena del cacao
+- Procesos fragmentados entre múltiples actores
+- Información dispersa y poco confiable
 - Dificultad para certificar el origen del producto
 - Baja transparencia en las relaciones comerciales
 - Toma de decisiones sin datos verificables
@@ -57,12 +57,12 @@
 </td>
 <td width="50%">
 
-### La Solucion DO Cacao
+### La solución DO Cacao
 
 - Trazabilidad completa del grano, de origen a destino
 - Procesos estandarizados y centralizados
 - Datos unificados, verificables y en tiempo real
-- Certificacion de origen respaldada por evidencia digital
+- Certificación de origen respaldada por evidencia digital
 - Transparencia total entre productores y compradores
 - Tableros e indicadores para decisiones informadas
 
@@ -86,15 +86,15 @@
 
 <div align="center">
 
-|  | Modulo | Descripcion |
+|  | Módulo | Descripción |
 |:---:|:---|:---|
-| :busts_in_silhouette: | **Gestion de Aliados y Asociaciones** | Registro, seguimiento y administracion de las asociaciones productoras y sus redes de aliados estrategicos |
-| :farmer: | **Registro de Agricultores** | Perfiles detallados de productores con historial productivo, certificaciones y vinculacion a asociaciones |
-| :earth_americas: | **Administracion de Fincas** | Datos de ubicacion, capacidad productiva, variedades cultivadas y condiciones de cada unidad productiva |
-| :seedling: | **Catalogo de Productos y Variedades** | Clasificacion y catalogacion de variedades de cacao con sus caracteristicas de calidad y origen |
-| :handshake: | **Ofertas y Comercializacion** | Marketplace interno B2B con flujos estructurados para gestionar oportunidades de compra y venta |
+| :busts_in_silhouette: | **Gestión de Aliados y Asociaciones** | Registro, seguimiento y administración de las asociaciones productoras y sus redes de aliados estratégicos |
+| :farmer: | **Registro de Agricultores** | Perfiles detallados de productores con historial productivo, certificaciones y vinculación a asociaciones |
+| :earth_americas: | **Administración de Fincas** | Datos de ubicación, capacidad productiva, variedades cultivadas y condiciones de cada unidad productiva |
+| :seedling: | **Catálogo de Productos y Variedades** | Clasificación y catalogación de variedades de cacao con sus características de calidad y origen |
+| :handshake: | **Ofertas y Comercialización** | Marketplace interno B2B con flujos estructurados para gestionar oportunidades de compra y venta |
 | :lock: | **Control de Acceso por Roles** | Sistema multirol con permisos granulares para que cada usuario acceda solo a lo que le corresponde |
-| :bar_chart: | **Reportes e Indicadores** | Dashboards en tiempo real sobre produccion, oferta, demanda y comportamiento del ecosistema |
+| :bar_chart: | **Reportes e Indicadores** | Dashboards en tiempo real sobre producción, oferta, demanda y comportamiento del ecosistema |
 
 </div>
 
@@ -120,7 +120,7 @@
     v               v                v                v                v
 +---------+  +------------+  +------------+  +-------------+  +-----------+
 |  CRM    |  | Marketplace|  |Trazabilidad|  |  Control de |  | Analytics |
-| Gestion |  |  Interno   |  | End-to-End |  |   Acceso    |  | & Reportes|
+| Gestión |  |  Interno   |  | End-to-End |  |   Acceso    |  | & Reportes|
 | Aliados |  |    B2B     |  |            |  |  por Roles  |  |           |
 +---------+  +------------+  +------------+  +-------------+  +-----------+
     |               |                |                |                |
@@ -141,7 +141,7 @@
 
 <div align="center">
 
-## Actores del Ecosistema
+## Actores del ecosistema
 
 </div>
 
@@ -155,28 +155,28 @@
 <br/>
 <img src="https://img.shields.io/badge/-Productores-4E342E?style=for-the-badge" />
 <br/><br/>
-Agricultores y duenos de fincas que registran su produccion, variedades y capacidad productiva dentro de la plataforma
+Agricultores y dueños de fincas que registran su producción, variedades y capacidad productiva dentro de la plataforma
 <br/><br/>
 </td>
 <td align="center" width="25%">
 <br/>
 <img src="https://img.shields.io/badge/-Asociaciones-5D4037?style=for-the-badge" />
 <br/><br/>
-Organizaciones que agrupan productores, coordinan procesos y facilitan la articulacion con el mercado
+Organizaciones que agrupan productores, coordinan procesos y facilitan la articulación con el mercado
 <br/><br/>
 </td>
 <td align="center" width="25%">
 <br/>
 <img src="https://img.shields.io/badge/-Compradores-6D4C41?style=for-the-badge" />
 <br/><br/>
-Empresas y actores comerciales que buscan cacao con denominacion de origen verificada y trazabilidad garantizada
+Empresas y actores comerciales que buscan cacao con denominación de origen verificada y trazabilidad garantizada
 <br/><br/>
 </td>
 <td align="center" width="25%">
 <br/>
 <img src="https://img.shields.io/badge/-Administradores-8D6E63?style=for-the-badge" />
 <br/><br/>
-Responsables de la operacion de la plataforma, gestion de permisos, supervision y generacion de reportes
+Responsables de la operación de la plataforma, gestión de permisos, supervisión y generación de reportes
 <br/><br/>
 </td>
 </tr>
@@ -198,17 +198,17 @@ Responsables de la operacion de la plataforma, gestion de permisos, supervision 
 
 <br/>
 
-- :white_check_mark: **Trazabilidad como ventaja competitiva** — No solo registramos informacion: convertimos cada dato en evidencia verificable del origen y la calidad del producto
+- :white_check_mark: **Trazabilidad como ventaja competitiva** — No solo registramos información: convertimos cada dato en evidencia verificable del origen y la calidad del producto
 
-- :white_check_mark: **Centralizacion inteligente** — Un unico punto de verdad que conecta a todos los actores del ecosistema, eliminando la fragmentacion y los procesos informales
+- :white_check_mark: **Centralización inteligente** — Un único punto de verdad que conecta a todos los actores del ecosistema, eliminando la fragmentación y los procesos informales
 
-- :white_check_mark: **Modelo escalable y modular** — Disenado para crecer desde una solucion de control y transparencia hasta una infraestructura preparada para analitica avanzada y expansion del ecosistema
+- :white_check_mark: **Modelo escalable y modular** — Diseñado para crecer desde una solución de control y transparencia hasta una infraestructura preparada para analítica avanzada y expansión del ecosistema
 
-- :white_check_mark: **CRM + Marketplace en un solo entorno** — Combinamos gestion de relaciones con logica de comercializacion interna para estructurar las transacciones entre productores y compradores
+- :white_check_mark: **CRM + Marketplace en un solo entorno** — Combinamos gestión de relaciones con lógica de comercialización interna para estructurar las transacciones entre productores y compradores
 
-- :white_check_mark: **Decisiones basadas en datos** — Indicadores en tiempo real sobre produccion, oferta, demanda y comportamiento del ecosistema para una gestion informada
+- :white_check_mark: **Decisiones basadas en datos** — Indicadores en tiempo real sobre producción, oferta, demanda y comportamiento del ecosistema para una gestión informada
 
-- :white_check_mark: **Seguridad y gobernanza** — Control de acceso basado en roles que garantiza que cada usuario interactue unicamente con la informacion y las acciones que le corresponden
+- :white_check_mark: **Seguridad y gobernanza** — Control de acceso basado en roles que garantiza que cada usuario interactúe únicamente con la información y las acciones que le corresponden
 
 <br/>
 
@@ -222,13 +222,13 @@ Responsables de la operacion de la plataforma, gestion de permisos, supervision 
 
 </div>
 
-DO Cacao esta concebido para evolucionar continuamente. Nuestra hoja de ruta contempla:
+DO Cacao está concebido para evolucionar continuamente. Nuestra hoja de ruta contempla:
 
 | Fase | Objetivo |
 |:---:|:---|
-| **Actual** | Plataforma core de trazabilidad, gestion operativa y comercializacion B2B |
-| **Siguiente** | Analitica avanzada, modelos predictivos e integracion con sistemas de certificacion |
-| **Futuro** | Expansion del ecosistema, interoperabilidad con cadenas de suministro globales y adopcion a escala |
+| **Actual** | Plataforma core de trazabilidad, gestión operativa y comercialización B2B |
+| **Siguiente** | Analítica avanzada, modelos predictivos e integración con sistemas de certificación |
+| **Futuro** | Expansión del ecosistema, interoperabilidad con cadenas de suministro globales y adopción a escala |
 
 <br/>
 
@@ -294,7 +294,7 @@ Explora nuestros repositorios para conocer los componentes de la plataforma DO C
 
 <br/>
 
-<sub>Construido con proposito. Disenado para el ecosistema cacaotero.</sub>
+<sub>Construido con propósito. Diseñado para el ecosistema cacaotero.</sub>
 
 <br/>
 
